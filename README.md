@@ -14,6 +14,10 @@ Just get the file and do some configuration, as you probabily won't have the sam
 The image output from f2 should be looking like this when you're done:
 <img width="743" height="591" alt="image" src="https://github.com/user-attachments/assets/54a8eddb-d333-4658-bdcd-11704d6c6ef4" />
 
+Command line:
+<img width="678" height="354" alt="image" src="https://github.com/user-attachments/assets/4708ad96-9de7-42b8-8f83-d8e62bac9300" />
+
+
 3. Press f3 to start the sweeper, press f4 to stop.
 
 This may or may not get easier depending on whether I feel good one day and decide3s to care about UX...
