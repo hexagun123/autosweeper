@@ -3,6 +3,8 @@
 # f2 to check dimensions, f3 to start and f4 to stop
 # use f2 first to ensure that everything is in the screen
 
+# important: the code uses Gemini to some extent to create comments and to make the code more readable and clean (hopefully). Just here to give credit.
+
 import mss
 import pyautogui
 import time
